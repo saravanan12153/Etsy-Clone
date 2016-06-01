@@ -1,0 +1,12 @@
+/* Empty. Add your own CSS if you like */
+.popup{
+    border-radius:10px!important;
+}
+
+.loginForm{
+    border:none!important;
+}
+
+.loginForm input{
+    padding-left: 10px!important;
+}
